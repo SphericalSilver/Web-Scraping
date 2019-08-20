@@ -20,4 +20,4 @@ A table with information on Diabetes occurrences in children was extracted and r
 
 A Python script is written for using the `read_html` function from the pandas library to automatically read in a table from a web-page. The script also outputs the resulting table as a csv file. 
 
-This Python script was automated using Task Scheduler to occur automatically at weekly intervals, which makes sure the table is as up to date as possible.
+A batch file using the script was then made, and then the script was automated using Task Scheduler to occur automatically at weekly intervals, which makes sure the table is as up to date as possible.
