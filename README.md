@@ -21,3 +21,7 @@ A table with information on Diabetes occurrences in children was extracted and r
 A Python script is written for using the `read_html` function from the pandas library to automatically read in a table from a web-page. The script also outputs the resulting table as a csv file. 
 
 A batch file using the script was then made, and then the script was automated using Task Scheduler to occur automatically at weekly intervals, which makes sure the table is as up to date as possible.
+
+### 2. [Retrieving JavaScript Object Notation responses using APIs](https://github.com/SphericalSilver/Web-Scraping-API-usage/blob/master/Retrieving%20JSON%20files%20using%20APIs%2C%20ISS%20example.ipynb)
+
+A workflow of using APIs to retrieve json format responses, and then working with them in Python to acquire information on the [ISS](https://en.wikipedia.org/wiki/International_Space_Station) was outlined here.
