@@ -1,4 +1,4 @@
-# Web-Scraping
+# Web Scraping/API usage
 Various methods of scraping websites for Data are explored here.
 
 Workflows for scraping data from a web-page, in XML or HTML formats, are outlined.
