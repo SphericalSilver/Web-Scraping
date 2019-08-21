@@ -8,6 +8,7 @@ Workflows for scraping data from a web-page, in XML or HTML formats, are outline
 ### 1. [Using BeautifulSoup to parse information on URLs from an XML web-page](https://github.com/SphericalSilver/Web-Scraping/blob/master/pythonprogramming.net%20XML%20scraping.ipynb)
 
 URLs available from the XML page were extracted, and then processed so that they could be visualized as a wordcloud:
+
 ![wordcloud](https://i.gyazo.com/bc351a17e58a56621c591dd8acbf6b67.png)
 
 ### 2. [Using BeautifulSoup to read in a table from a HTML web-page](https://github.com/SphericalSilver/Web-Scraping/blob/master/BeautifulSoup%20Diabetes%20Stats%20Web%20Scraping.ipynb)
